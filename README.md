@@ -1,3 +1,8 @@
+ádjalskjdasjdjasldjlkasjdklasjlkdasjkldjaslkdjasljdasjldkasjd
+
+
+
+
 Scenario: Một khách hàng mới muốn xem tất cả mặt hàng trong trang web
 Given: Tôi là một người chưa truy cập vào trang web
 When: khi tôi nhập địa chỉ của trang web trên thanh địa chỉ và nhấn enter
